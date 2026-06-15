@@ -1,0 +1,16 @@
+# Functions in Python are defined using the def keyword, followed by a
+  function name and parentheses, which may include parameters.
+
+# Parameters allow functions to receive input making them flexible and reusable
+  for different data inputs.
+
+# The return statement is used to send a function's result back to the caller,
+  exiting the function and optionally passing back a value.
+
+# Default parameters infunction definitions provide default values for arguments,
+  simplifying function calls and enhancing flexibility.
+
+# Python supports both positional and keyword arguments, giving more control over how
+  functions are called and how arguments are passed to them.
+
+# lambda is a quick way to define a function in a single line.

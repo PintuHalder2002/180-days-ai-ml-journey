@@ -1,0 +1,17 @@
+1. Tuples are immutable data structures in Python,
+    which means once a tuple is created, its elements
+    cannot be changed, added, or removed.
+
+2. Dictionaries in Python are mutable data structures
+   that store key-value pairs, allowing fast data retrieval by key.
+
+3. Dictionary is a Python-specific implementation of a HashMap
+   data structure.
+
+4. Keys in dictionaries must be unique and immutable types,
+   such as strings, numbers, or tuples, ensuring that each key
+   maps distinctly to its value.
+
+5. Both tuples and dictionaries support various methods and operations
+   such as accessing elements, iterating over them, etc for efficient
+   data manipulation and retrieval.
