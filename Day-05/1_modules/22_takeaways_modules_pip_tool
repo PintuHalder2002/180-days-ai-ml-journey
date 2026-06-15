@@ -1,0 +1,15 @@
+1. Modules in Python allow you to organize
+    and reuse code across multiple programs.
+
+2. You can import built-in modules like math
+    and internal modules which are available on
+    https://pypi.org/   .
+
+3. Use import module_name to bring a module into
+    current script.
+
+4. The pip tool is used to install and manage external
+    Python packages.
+
+5.  Use pip install package_name to add new packages
+    your Python environment.

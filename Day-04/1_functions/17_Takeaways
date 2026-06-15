@@ -7,7 +7,7 @@
 # The return statement is used to send a function's result back to the caller,
   exiting the function and optionally passing back a value.
 
-# Default parameters infunction definitions provide default values for arguments,
+# Default parameters in function definitions provide default values for arguments,
   simplifying function calls and enhancing flexibility.
 
 # Python supports both positional and keyword arguments, giving more control over how

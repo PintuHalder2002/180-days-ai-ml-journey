@@ -1,0 +1,4 @@
+I love Python
+I love meditation
+I love Golang
+I love fruits
