@@ -1,0 +1,16 @@
+# Takeaways
+
+1. Operator overloading allows you to define operators like <,>,
+    ==. +, -, * etc.behave for custom objects.
+
+2. Classes and objects are at he core of OOPS.
+
+3. Overloading operators makes your custom classes more intuitive
+    and easier to use.
+
+
+
+
+
+
+    

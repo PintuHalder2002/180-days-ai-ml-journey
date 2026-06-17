@@ -1,0 +1,9 @@
+Takeaways
+1.Object-oriented programming (OOPS) makes managing software projects easier.
+2.Classes and objects are at the core of OOPS.
+3.Classes are like a blueprint of an entity whereas objects represent a specific instance of that class.
+4.For example, Human is a class whereas a specific human being (say Mira Sharma) is an instance of the class Human.
+5.Classes have properties and functions.
+6.Use pip install package_name to add new packages to your Python environment.
+7.Use the __init__ method to initialize object properties when an object is created.
+8.Methods defined in a class describe the behaviors that objects of that class can perform.
