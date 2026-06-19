@@ -1,0 +1,9 @@
+# Inheritance encourages a structured approach to code organization,
+#  promoting clarity and maintainability.
+
+# Inheritance allows new classes to absorb attributes and methods from existing classes, enhancing code reusability.
+
+# It facilitates the extension and customization of existing code by
+# deriving new subclasses.
+
+
