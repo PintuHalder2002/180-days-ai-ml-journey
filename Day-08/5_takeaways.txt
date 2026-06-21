@@ -1,0 +1,13 @@
+
+# Using Numpy, one can perform matrix operations in a convenient way.
+
+# For two matrices(m1 and m2), one can do addition, subtraction, division and multiplication by
+  using +,-,/ and * operators.
+
+# np.dot(m1 , m2) and np.cross(m1 , m2) can be used to perform a dot and cross products between two
+  matrices(m1 and m2).
+
+
+
+
+
