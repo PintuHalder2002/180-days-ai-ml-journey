@@ -1,0 +1,15 @@
+
+
+# Numpy supports index and slicing operator similiar to Python native list.
+
+# np.hstack np.vstack are used to stack two Numpy arrays horizontally and vertically.
+
+# np.hsplit and np.vsplit are used to split a numpy array either horizontally or vertically.
+
+
+
+
+
+
+
+
