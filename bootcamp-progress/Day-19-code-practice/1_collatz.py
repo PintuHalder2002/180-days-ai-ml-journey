@@ -47,8 +47,10 @@ def collatz_seq():
     desired_number = user_inp
 
     while desired_number != 1:
+
         try:
             desired_number = collatz(int(desired_number))
+
         except ValueError:
             print("Input must be an  integer.")
 
